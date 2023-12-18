@@ -1,14 +1,23 @@
 # SNHU_CS305
-Client Overview: Artemis Financial sought assistance in enhancing the security of their software application. They required a comprehensive vulnerability assessment to identify and rectify potential security loopholes and ensure the confidentiality and integrity of their sensitive financial data.
+## Artemis Financial Secure Software Portfolio Submission
 
-Highlighting Secure Coding: During the vulnerability assessment, a strong suite of encryption technologies was implemented to fortify the software against potential threats. Secure coding practices were rigorously followed, ensuring robustness against common vulnerabilities. Secure coding is vital because it forms the bedrock of a software’s resilience against cyber threats. Strengthening software security bolsters a company’s overall resilience, safeguarding critical assets and maintaining user trust.
+### Client Overview:
+Artemis Financial, a prominent financial institution, sought our expertise to fortify their software application against potential cyber threats. Our task was to conduct a meticulous vulnerability assessment and implement robust security measures to protect their sensitive financial data.
 
-Challenges and Learnings: The most challenging aspect of the vulnerability assessment was dealing with hard-coded credentials in the production environment, which posed a risk to the application's security. Learning to navigate such intricate security issues provided invaluable insights into real-world security threats and mitigation strategies.
+### Key Accomplishments:
+Our approach was centered on implementing cutting-edge encryption technologies like AES and RSA, reinforcing the software's resilience against vulnerabilities. Secure coding practices were rigorously applied, laying the foundation for a fortified and secure software ecosystem. By prioritizing secure coding, we ensured that Artemis Financial's assets and user data remained safeguarded from potential threats.
 
-Enhancing Security Layers: To augment security layers, a multifaceted approach was adopted. Future assessments would leverage automated vulnerability scanning tools and threat modeling techniques. This would help in prioritizing and addressing vulnerabilities systematically.
+### Learning Highlights:
+Navigating through the challenge of dealing with hard-coded credentials in the production environment offered invaluable insights into real-world security threats. This experience provided a deeper understanding of critical security issues and the strategies needed to address them effectively.
 
-Ensuring Functionality and Security: Post-refactoring, rigorous testing was performed using robust test cases and validation procedures to ensure functionality and security. A meticulous review process was implemented to detect and eliminate newly introduced vulnerabilities.
+### Strengthening Security Layers:
+We employed a multifaceted approach, integrating automated vulnerability scanning tools and threat modeling techniques. These methods empowered us to systematically identify, prioritize, and mitigate vulnerabilities, significantly enhancing the software's security posture.
 
-Utilized Resources and Tools: Several industry-standard encryption technologies, such as AES and RSA, were utilized along with vulnerability scanning tools and secure coding guidelines. Leveraging these tools and practices enhanced the software's resilience, paving the way for future secure coding endeavors.
+### Ensuring Functionality and Security:
+Post-refactoring, a meticulous validation process and rigorous testing regimen were undertaken to ensure the software's seamless functionality and fortified security measures. We conducted exhaustive reviews to detect and eliminate any newly introduced vulnerabilities, ensuring a robust and secure final product.
 
-Showcasing Skills to Employers: Future employers could benefit from seeing artifacts demonstrating secure coding practices, encryption implementation, and vulnerability assessment reports. This assignment showcases the ability to identify, address, and document security vulnerabilities within software applications, a crucial skill set in today's cybersecurity landscape.
+### Utilized Resources and Tools:
+Our implementation leveraged a suite of industry-standard encryption technologies alongside vulnerability scanning tools and adherence to secure coding guidelines. By incorporating these practices, we elevated the software's resilience and readiness for future secure coding endeavors.
+
+### Showcasing Skills to Employers:
+This artifact demonstrates our ability to identify, address, and document security vulnerabilities within software applications. Employers seeking individuals well-versed in secure coding practices, encryption implementation, and vulnerability assessment will find this submission illustrative of our expertise in the cybersecurity landscape.

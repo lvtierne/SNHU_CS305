@@ -1,4 +1,7 @@
 # SNHU_CS305
+<!-- Hey Prof! Thanks for checking this out!  🎅❄️-->
+<!-- Happy Holidays! -->
+<!-- Looking forward to your feedback! -->
 ## Artemis Financial Secure Software Portfolio Submission
 
 ### Client Overview:
